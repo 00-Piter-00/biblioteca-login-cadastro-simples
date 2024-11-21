@@ -1,0 +1,12 @@
+{
+    "name": "piter/biblio-login-cadastro-simples",
+    "description": "Sistema de autenticação PHP reutilizável.",
+    "autoload": {
+        "psr-4": {
+            "AuthLibrary\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
